@@ -42,7 +42,7 @@ Then open the provided local URL in your browser to interact with the app.
 
 ## Screenshots
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](./app_screenshot.png)
 
 ## License
 This project is licensed under the MIT License.
