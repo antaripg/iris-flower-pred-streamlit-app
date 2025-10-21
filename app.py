@@ -9,7 +9,11 @@ st.write("""
 # Simple Iris Flower Prediction App
 This app predicts the **Iris flower** type!
 """)
-st.set_page_config(layout="wide")
+st.set_page_config(
+    page_title="IrisFlowerPredictionApp",
+    page_icon="static/iris.ico",
+    layout="wide"
+    )
 
 
 # st.sidebar.header('User Input Parameters')
